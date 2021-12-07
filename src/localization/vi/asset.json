@@ -1,0 +1,12 @@
+{
+    "asset_id": "Mã tài sản",
+    "asset_information": "Thông tin tài sản",
+    "installation_date": "Ngày cài đặt",
+    "asset_name": "Tên tài sản",
+    "model": "Model",
+    "latest_maintenance_date": "Ngày bảo trì gần nhất",
+    "latest_calibration_date": "Ngày hiệu chỉnh gần nhất",
+    "latest_verification_date": "Ngày xác nhận gần nhất",
+    "location": "Vị trí",
+    "owner": "Người sở hữu"
+}

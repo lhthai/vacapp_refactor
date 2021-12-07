@@ -1,0 +1,7 @@
+{
+    "employee_id": "Mã nhân viên",
+    "password": "Mật khẩu",
+    "emp_id_empty": "Mã nhân viên không hợp lệ",
+    "pass_empty": "Mật khẩu không hợp lệ",
+    "invalid_sign_in": "Mã nhân viên hoặc mật khẩu không đúng"
+}

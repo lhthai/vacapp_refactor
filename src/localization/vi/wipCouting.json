@@ -1,0 +1,16 @@
+{
+  "duplicate_sn": "Trùng số seri",
+  "this_sn_is_counted": "Số seri này đã được kiểm",
+  "list_sn_empty": "Danh sách số seri trống.",
+  "total_wip_remaining": "Tổng WIP còn lại",
+  "qr_wrong_format": "Mã QR sai định dạng",
+  "selected": "Đã chọn",
+  "pls_input_emp_id": "Vui lòng nhập mã nhân viên.",
+  "pls_choose_department": "Vui lòng chọn bộ phận.",
+  "pls_choose_location": "Vui lòng chọn vị trí.",
+  "pls_input_trolley": "Vui lòng nhập số xe/kệ",
+  "employee_code": "Mã nhân viên",
+  "choose_department": "-- Chọn bộ phận --",
+  "choose_location": "-- Chọn vị trí --",
+  "trolley": "Xe"
+}

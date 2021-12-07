@@ -1,0 +1,9 @@
+{
+    "batchcodeHasData": "This serial number already have data",
+    "plsScanSeri": "Please scan serial number",
+    "plsChooseStation": "Please choose station",
+    "missPoint": "Missing measurement points",
+    "tempOutOfSpec": "Temperature out of spec.",
+    "chooseStation": "-- Choose station --",
+    "position": "Position"
+}

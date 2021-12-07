@@ -1,0 +1,12 @@
+{
+    "asset_id": "Asset ID",
+    "asset_information": "Asset Information",
+    "installation_date": "Installation Date",
+    "asset_name": "Asset Name",
+    "model": "Model",
+    "latest_maintenance_date": "Latest Maintenance Date",
+    "latest_calibration_date": "Latest Calibration Date",
+    "latest_verification_date": "Latest Verification Date",
+    "location": "Location",
+    "owner": "Owner"
+}

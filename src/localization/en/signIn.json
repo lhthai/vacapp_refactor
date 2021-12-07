@@ -1,0 +1,7 @@
+{
+    "employee_id": "Employee ID",
+    "password": "Password",
+    "emp_id_empty": "Employee ID is invalid",
+    "pass_empty": "Password is empty",
+    "invalid_sign_in": "Invalid username or password"
+}

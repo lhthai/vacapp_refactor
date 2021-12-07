@@ -1,0 +1,16 @@
+{
+  "duplicate_sn": "Duplicate serial number",
+  "this_sn_is_counted": "This serial number is counted",
+  "list_sn_empty": "List serial number is empty.",
+  "total_wip_remaining": "Total WIP Remaining",
+  "qr_wrong_format": "QRCode wrong format",
+  "selected": "Selected",
+  "pls_input_emp_id": "Please input employee code",
+  "pls_choose_department": "Please choose department",
+  "pls_choose_location": "Please choose location",
+  "pls_input_trolley": "Please input trolley",
+  "employee_code": "Employee Code",
+  "choose_department": "-- Choose department --",
+  "choose_location": "-- Choose location --",
+  "trolley": "Trolley"
+}
